@@ -1,0 +1,6 @@
+Python 2.0 was released on 16 October 2000,
+with many major new features such as list comprehensions,
+cycle-detecting garbage collection, reference counting,
+and Unicode support.[49] Python 2.7's end-of-life was initially set for 2015,
+then postponed to 2020 out of concern that  large body of existing code could not easily be forward-ported to Python 3.[50][51] No further security patches or other improvements will be released for it.[52][53] While Python 2.7 and older versions are officially unsupported,
+a different unofficial Python implementation, PyPy, continues to support Python 2, i.e. "2.7.18+" (plus 3.10), with the plus meaning (at least some) "backported security updates".[54]
