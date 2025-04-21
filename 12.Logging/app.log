@@ -1,0 +1,6 @@
+2025-04-17 21:28:52-root-DEBUG-This is a test code
+2025-04-17 21:31:34-root-INFO-This is an info message
+2025-04-17 21:33:16-root-INFO-This is an info message
+2025-04-17 21:33:16-root-WARNING-This is a warning message
+2025-04-17 21:33:16-root-ERROR-This is an error message
+2025-04-17 21:33:16-root-CRITICAL-This program will not get executed
