@@ -2,9 +2,9 @@
 ## Process : Instance of a programme 
 ## Thread : Unit of execution 
 
-## 1-Code Segment , 2-Heap 
-## 3-Stack , 4-Registers
-## 5- Thread
+## 1-Code Segment , 2-Heap , 3- Data Segment
+## 4-Stack , 5-Registers
+## 6- Thread
 
 
 ## File Operations / I/O -> concurently
